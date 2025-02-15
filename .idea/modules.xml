@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Exercicios_Vetores/Exercicios_Vetores.iml" filepath="$PROJECT_DIR$/Exercicios_Vetores/Exercicios_Vetores.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Listas_JAVA/Listas_JAVA.iml" filepath="$PROJECT_DIR$/Listas_JAVA/Listas_JAVA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Matrizes_JAVA/Matrizes_JAVA.iml" filepath="$PROJECT_DIR$/Matrizes_JAVA/Matrizes_JAVA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/POO-JAVA.iml" filepath="$PROJECT_DIR$/.idea/POO-JAVA.iml" />
+    </modules>
+  </component>
+</project>
